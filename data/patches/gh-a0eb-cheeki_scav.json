@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "cheeki_scav",
+	"description": "German Escape From Tarkov Streamer\n\nThe Logo resembles the \"Killa Helmet\" from EFT",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/cheeki_scav/"
+		],
+		"discord": [
+			"cheeki"
+		]
+	},
+	"path": {
+		"145": [
+			[
+				385,
+				-367
+			],
+			[
+				385,
+				-353
+			],
+			[
+				396,
+				-353
+			],
+			[
+				396,
+				-367
+			]
+		]
+	},
+	"center": {
+		"145": [
+			391,
+			-360
+		]
+	}
+}
