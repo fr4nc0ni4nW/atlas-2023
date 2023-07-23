@@ -1,0 +1,79 @@
+{
+	"id": 105,
+	"name": "Mass Relay",
+	"description": "A Mass Relay is a form of faster-than-light (FTL) travel from the Mass Effect games.",
+	"links": {
+		"website": [
+			"https://masseffect.fandom.com/wiki/Mass_Relay"
+		],
+		"subreddit": [
+			"masseffect"
+		]
+	},
+	"path": {
+		"16-145": [
+			[
+				405,
+				-343
+			],
+			[
+				398,
+				-343
+			],
+			[
+				397,
+				-344
+			],
+			[
+				395,
+				-345
+			],
+			[
+				394,
+				-344
+			],
+			[
+				393,
+				-343
+			],
+			[
+				393,
+				-343
+			],
+			[
+				392,
+				-343
+			],
+			[
+				391,
+				-342
+			],
+			[
+				392,
+				-341
+			],
+			[
+				393,
+				-341
+			],
+			[
+				394,
+				-340
+			],
+			[
+				397,
+				-340
+			],
+			[
+				405,
+				-341
+			]
+		]
+	},
+	"center": {
+		"16-145": [
+			396,
+			-342
+		]
+	}
+}
