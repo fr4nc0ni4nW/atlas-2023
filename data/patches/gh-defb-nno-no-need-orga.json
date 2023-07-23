@@ -1,0 +1,72 @@
+{
+	"id": 611,
+	"name": "NNO - No Need Orga",
+	"description": "A very popular german League of Legends Team founded by Streamers",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/tolkin",
+			"https://www.twitch.tv/agurin",
+			"https://www.twitch.tv/noway4u_sir",
+			"https://www.twitch.tv/broeki",
+			"https://www.twitch.tv/karni"
+		]
+	},
+	"path": {
+		"2-145": [
+			[
+				289,
+				-331
+			],
+			[
+				288,
+				-287
+			],
+			[
+				294,
+				-288
+			],
+			[
+				296,
+				-293
+			],
+			[
+				359,
+				-293
+			],
+			[
+				361,
+				-293
+			],
+			[
+				361,
+				-286
+			],
+			[
+				379,
+				-286
+			],
+			[
+				379,
+				-320
+			],
+			[
+				361,
+				-320
+			],
+			[
+				359,
+				-320
+			],
+			[
+				360,
+				-330
+			]
+		]
+	},
+	"center": {
+		"2-145": [
+			309,
+			-312
+		]
+	}
+}
